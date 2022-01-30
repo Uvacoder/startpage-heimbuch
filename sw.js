@@ -8,15 +8,15 @@ const EXTERNAL_FILES = [
 
 const CACHE_FILES = [
   ...EXTERNAL_FILES,
-  "/index.html",
-  "/favicon.svg",
-  "/assets/css/styles.css",
-  "/assets/js/data.js",
-  "/assets/js/script.js",
-  "/assets/js/search.js",
-  "/apps.json",
-  "/links.json",
-  "/manifest.json",
+  "/start/index.html",
+  "/start/favicon.svg",
+  "/start/assets/css/styles.css",
+  "/start/assets/js/data.js",
+  "/start/assets/js/script.js",
+  "/start/assets/js/search.js",
+  "/start/apps.json",
+  "/start/links.json",
+  "/start/manifest.json",
 ];
 
 const OFFLINE_PAGE = "/index.html";
