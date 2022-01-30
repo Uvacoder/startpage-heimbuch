@@ -30,6 +30,10 @@ body{
 
 :root{
 	module-spacing: 3vh;
+
+	--color-background: #011627;
+	--color-text-pri: #ffffffcc;
+	--color-text-acc: #5f7e97;
 }
 
 
